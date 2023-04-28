@@ -1,0 +1,10 @@
+name = "Solidstatemagproj"
+uuid = "3f7b1872-62ff-4d3e-816f-c8440b520a86"
+authors = ["Jimbo-Coder <maxrizzo99@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+IntervalArithmetic = "d1acc4aa-44c8-5952-acd4-ba5d80a2a253"
+IntervalRootFinding = "d2bf35a9-74e0-55ec-b149-d360ff49b807"
+NLsolve = "2774e3e8-f4cf-5e23-947b-6d7e65073b56"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
